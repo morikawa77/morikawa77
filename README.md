@@ -14,7 +14,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 Hello, I'm Reginaldo Morikawa.<br>
-<img align="right" src="assets/hire-me2.png" width="180"/>
+<br>
 At the moment I'm working only as a freelancer but I am looking for a vacancy in project management or CTO.<br><br>
 I work with Web and technology since year 2000.<br><br>
 I have worked with several languages / frameworks and since 2010 I moved to the area of team management and website and system development projects.<br><br>
