@@ -1,5 +1,5 @@
 
-<img align="right" src="assets/150927495_176633587593458_5480115881411313317_n.png" width="280"/>
+<img align="right" src="assets/151194578_457243058638886_5746974714263677556_n.png" width="280"/>
 
 <a href="https://www.linkedin.com/in/morikawa77">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Reginaldo%20Morikawa-blue?logo=linkedin"/>
