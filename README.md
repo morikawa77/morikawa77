@@ -9,8 +9,7 @@
 <img align="left" alt="E-mail" src="https://img.shields.io/badge/-Send%20me%20an%20email-red?logo=gmail&logoColor=white"/>
 </a>
 
-
-
+<br>
 ### Hey! Welcome to my profile! How is it going? 👋
 
 Hello, I'm Reginaldo Morikawa.<br>
