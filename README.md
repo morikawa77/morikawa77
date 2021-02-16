@@ -13,10 +13,6 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋
 
-- 🎯 I’m currently open for hire
-- 💻 Swift, Javascript, PHP, Python, C#, Ruby on Rails
-
-<br>
 Hello, I'm Reginaldo Morikawa.<br>
 <img align="right" src="assets/hire-me2.png" width="180"/>
 At the moment I'm working only as a freelancer but I am looking for a vacancy in project management or CTO.<br><br>
