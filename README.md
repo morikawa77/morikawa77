@@ -1,5 +1,5 @@
 
-<img align="right" src="assets/150927495_176633587593458_5480115881411313317_n.png" width="300"/>
+<img align="right" src="assets/150927495_176633587593458_5480115881411313317_n.png" width="280"/>
 
 <a href="https://www.linkedin.com/in/morikawa77">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Reginaldo%20Morikawa-blue?logo=linkedin"/>
@@ -20,5 +20,5 @@ I work with Web and technology since year 2000.<br><br>
 I have worked with several languages / frameworks and since 2010 I moved to the area of team management and website and system development projects.<br><br>
 I am also an Apple specialist in the areas of Hardware, Software, Products, Sales and Teacher.<br><br>
 I have interest in side projects of IOT and AI.<br><br>
-<img align="left" src="assets/programming-languages-solodev_final.jpg" width="50%"/>
+<img align="left" src="assets/programming-languages-solodev_final.jpg" width="80%"/>
 
