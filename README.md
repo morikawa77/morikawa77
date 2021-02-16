@@ -6,7 +6,7 @@
 </a>
 
 <a href="mailto:morikawa77@gmail.com">
-<img align="left" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red?logo=mail"/>
+<img align="left" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red?logo=gmail"/>
 </a>
 
 <br/>
