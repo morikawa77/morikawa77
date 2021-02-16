@@ -2,11 +2,11 @@
 <img align="right" src="assets/150927495_176633587593458_5480115881411313317_n.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/morikawa77">
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Reginaldo%20Morikawa-blue"/>
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Reginaldo%20Morikawa-blue?logo=linkedin"/>
 </a>
 
 <a href="mailto:morikawa77@gmail.com">
-<img align="left" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+<img align="left" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red?logo=mail"/>
 </a>
 
 <br/>
