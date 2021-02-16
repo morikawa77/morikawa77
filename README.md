@@ -11,7 +11,7 @@
 
 <br>
 
-### Hey! Welcome to my profile! How is it going? 👋
+### Hey! Welcome to my profile! How is it going? 👋<img align="left" src="assets/151284068_860165564778073_3729148183549175200_n.png" width="80"/>
 
 Hello, I'm Reginaldo Morikawa.<br>
 <br>
