@@ -21,6 +21,6 @@ At the moment I'm working only as a freelancer but I am looking for a vacancy in
 I work with Web and technology since year 2000.<br><br>
 I have worked with several languages / frameworks and since 2010 I moved to the area of team management and website and system development projects.<br><br>
 I am also an Apple specialist in the areas of Hardware, Software, Products, Sales and Teacher.
-<img align="left" src="assets/150927495_176633587593458_5480115881411313317_n.png" width="180"/>
-<br><br>
+<img align="left" src="assets/AppleTeacher_white.png" width="180"/>
+<br><br><br><br>
 I have interest in side projects of IOT and AI.
