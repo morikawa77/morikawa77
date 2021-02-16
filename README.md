@@ -21,7 +21,5 @@ I have worked with several languages / frameworks and since 2010 I moved to the 
 <br>
 I am also an Apple specialist in the areas of Hardware, Software, Products, Sales and Teacher.<br><br>
 I have interest in side projects of IOT and AI.<br><br>
-<img align="left" src="assets/AppleTeacher_white.png" width="180"/> &nbsp;&nbsp;&nbsp;
-<img align="left" src="assets/acmt.png" width="180"/>
 <img align="left" src="assets/programming-languages-solodev_final.jpg" width="100%"/>
 
