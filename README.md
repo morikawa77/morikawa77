@@ -1,4 +1,4 @@
-<img align="left" src="assets/programming-languages-solodev_final.jpg" width="100%"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" src="assets/programming-languages-solodev_final.jpg" width="100%"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img align="right" src="assets/151194578_457243058638886_5746974714263677556_n.png" width="280"/>
 
 <a href="https://www.linkedin.com/in/morikawa77">
