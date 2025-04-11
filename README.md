@@ -21,6 +21,6 @@ I work with Web and technology since year 2000.<br><br>
 I have worked with several languages / frameworks and since 2010 I moved to the area of team management and websites and apps development projects.<br><br>
 I am also an Apple specialist in the areas of Hardware, Software, Products, Sales and Teacher.<br><br>
 I have interest in side projects of IOT and AI.<br><br>
-<img align="right" src="assets/memoji-thinking.avif" width="280"/>
+<img align="right" src="assets/memoji-mac.avif" width="280"/>
 <img align="right" src="assets/acmt.avif" width="280"/>
 <img align="right" src="assets/appleteacher.avif" width="280"/>
